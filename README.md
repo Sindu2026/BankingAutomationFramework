@@ -1,20 +1,20 @@
-🏦 Banking Test Automation Framework
+ ## 🏦 **Banking Test Automation Framework**
 
 
 
-👩‍💻 About Me
+### 👩‍💻 ***About Me***
 
 10+ years of Manual Testing experience in Banking and Insurance domain.
 
 Currently building automation skills to complement domain expertise.
 
-🎯 Project Overview
+### 🎯 ***Project Overview***
 
 A comprehensive test automation framework built for banking applications, demonstrating core automation skills including UI testing, API testing, and data-driven testing.
 
 
 
-🛠️ Tech Stack
+### 🛠️ ***Tech Stack***
 
 | Tool | Purpose |
 
@@ -36,7 +36,7 @@ A comprehensive test automation framework built for banking applications, demons
 
 
 
-\## 📁 Project Structure
+### 📁 ***Project Structure***
 
 BankingAutomationFramework/
 
@@ -66,7 +66,7 @@ BankingAutomationFramework/
 
 
 
-&#x20;✅ Week 1 - Java Basics Completed
+&#x20;✅ **Week 1 - Java Basics Completed**
 
 \- Variables, Data Types
 
@@ -84,7 +84,7 @@ BankingAutomationFramework/
 
 
 
-🤖 AI in Testing
+🤖 **AI in Testing**
 
 \- Used Claude AI to generate banking test scenarios
 
@@ -94,7 +94,7 @@ BankingAutomationFramework/
 
 
 
-📊 Test Scenarios Covered
+📊 **Test Scenarios Covered**
 
 \- Login Validation (valid, invalid, locked, inactive)
 
@@ -108,7 +108,7 @@ BankingAutomationFramework/
 
 
 
-🚀 How to Run
+🚀 **How to Run**
 
 1\. Clone the repository
 
@@ -118,7 +118,7 @@ BankingAutomationFramework/
 
 
 
-📫 Connect with me
+📫 **Connect with me**
 
 \- LinkedIn: www.linkedin.com/in/sindhujar87
 
