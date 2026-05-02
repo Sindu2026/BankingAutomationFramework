@@ -37,6 +37,8 @@ A comprehensive test automation framework built for banking applications, demons
 
 ### 📁 ***Project Structure***
 
+
+```
 BankingAutomationFramework/
 
 ├── src/
@@ -64,6 +66,7 @@ BankingAutomationFramework/
 └── pom.xml                     → Maven dependencies
 
 
+```
 
 &#x20;✅ **Week 1 - Java Basics Completed**
 
