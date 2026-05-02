@@ -1,3 +1,9 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+ 
  ## 🏦 **Banking Test Automation Framework**
 
 
@@ -17,21 +23,14 @@ A comprehensive test automation framework built for banking applications, demons
 ### 🛠️ ***Tech Stack***
 
 | Tool | Purpose |
-
+|---|---|
 | Java | Core programming language |
-
 | Selenium WebDriver | UI Automation |
-
 | TestNG | Test Framework |
-
 | RestAssured | API Testing |
-
 | Apache POI | Excel Data Reading |
-
 | ExtentReports | Test Reporting |
-
 | Maven | Build Management |
-
 | GitHub Actions | CI/CD Pipeline |
 
 
